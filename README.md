@@ -1,10 +1,16 @@
 # Qiskit Global Summer School
 
 
-#Prerequire
+# Prerequire
 
-#Lecture
 
-#Lab Session
 
-#Final Project
+# Lecture
+
+
+
+# Lab Session
+
+
+
+# Final Project
